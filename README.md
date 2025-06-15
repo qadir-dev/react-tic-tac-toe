@@ -29,8 +29,8 @@ I enjoy solving problems and learning new technologies in the frontend ecosystem
 
 ## 🌐 Online Presence
 
-- **LinkedIn:** [linkedin.com/in/qadir](https://linkedin.com/in/qadir-qanbarpoor)
-- **GitHub:** [github.com/your-username](https://github.com/qadir-dev) 
+- **LinkedIn:** [linkedin.com/in/qadir-qanbarpoor](https://linkedin.com/in/qadir-qanbarpoor)
+- **GitHub:** [github.com/qadir-dev](https://github.com/qadir-dev) 
 
 ---
 
